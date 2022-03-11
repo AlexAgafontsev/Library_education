@@ -1,1 +1,1 @@
-web: gunicorn Library_education.wsgi
+web: gunicorn locallibrary.wsgi --log-file -
