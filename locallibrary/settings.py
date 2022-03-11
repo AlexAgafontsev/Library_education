@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'cg#p$g+j9tax!#a3cup@1$8obt2_+&
 DEBUG = bool( os.environ.get('DJANGO_DEBUG', True))
 ALLOWED_HOSTS = [
     '*'
-    'Library_education.herokuapp.com'
+    'powerful-dawn-99143.herokuapp.com'
 ]
 
 
